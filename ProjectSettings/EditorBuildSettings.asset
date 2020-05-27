@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/WebRtcVideoChat/extra/VideoConferenceApp/conferencescene.unity
     guid: bf281e1ce939a394c85ba2e0f289b07d
+  - enabled: 1
+    path: Assets/Scenes/VideoInpitWithARKit/WebRTCWithARCamera.unity
+    guid: 13274374331194a6e9ec2a6419c86c79
   m_configObjects: {}
