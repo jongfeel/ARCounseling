@@ -16,6 +16,6 @@
 
 #### Figma
 
-![FigmaDesign](CounselAR.png)
+![FigmaDesign](./CounselAR.png)
 
 https://www.figma.com/file/xzwQVTvu7393SNNVUl76QL/CounselAR?node-id=0%3A1
