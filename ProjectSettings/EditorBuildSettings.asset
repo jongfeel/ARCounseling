@@ -5,6 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+<<<<<<< HEAD
   - enabled: 1
     path: Assets/Scenes/ARCounseling.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
@@ -13,3 +14,12 @@ EditorBuildSettings:
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 54f55dbd6cd8d4ee09435d27d2415f05,
       type: 2}
+=======
+  - enabled: 0
+    path: Assets/WebRtcVideoChat/extra/VideoConferenceApp/conferencescene.unity
+    guid: bf281e1ce939a394c85ba2e0f289b07d
+  - enabled: 1
+    path: Assets/Scenes/VideoInpitWithARKit/WebRTCWithARCamera.unity
+    guid: 13274374331194a6e9ec2a6419c86c79
+  m_configObjects: {}
+>>>>>>> afb14850b02a0822f8da40566516a60623104ae5

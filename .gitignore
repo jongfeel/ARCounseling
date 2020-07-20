@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Minjae's build project
+**/.DS_Store
+WebRTCWithARKit/
