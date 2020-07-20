@@ -6,6 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/WebRtcVideoChat/extra/VideoConferenceApp/conferencescene.unity
-    guid: bf281e1ce939a394c85ba2e0f289b07d
-  m_configObjects: {}
+    path: Assets/Scenes/ARCounseling.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: ef5bc186f6d2749fa8c7159dff66e7fe,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 54f55dbd6cd8d4ee09435d27d2415f05,
+      type: 2}
